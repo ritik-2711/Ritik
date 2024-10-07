@@ -1,9 +1,9 @@
 <h1>Hi there, I'm Ritik Kumar!👋</h1>
-<h3>Diploma CSE student at <b>Government Polytechnic Indri.</b></h3>
+<h3>B.Tech CSE student at <b>Rawal Institutions</b></h3>
 
 - 💬 Ask me about:-  **HTML/HTML5, CSS/CSS3, JAVASCRIPT, BOOTSTRAP, TAILWIND **
 
-- 📫 How to reach me:-  **ritik2409kumar@gmail.com**
+- 📫 How to reach me:-  **itswebcoder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
